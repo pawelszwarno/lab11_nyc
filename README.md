@@ -6,7 +6,10 @@
 
 ## 2. Ile ulic w Nowym Jorku ma nazwy zaczynające się na „B”, „Q” i „M”?
 
-2102
+"B": 1282
+"Q": 68
+"M": 752
+Łącznie: 2102
 
 ## 3. Jaka jest populacja miasta Nowy Jork?
 
@@ -17,6 +20,7 @@
 Bronx: 1385108
 Manhattan: 1585873
 Queens: 2230621
+Łącznie: 5201602
 
 ## 5. Ile dzielnic ("neighborhoods") znajduje się w każdej gminie (borough)?
 
@@ -25,3 +29,4 @@ Brooklyn: 23
 Manhatttan: 28
 Queens: 30
 Staten Island: 24
+Łącznie: 129
